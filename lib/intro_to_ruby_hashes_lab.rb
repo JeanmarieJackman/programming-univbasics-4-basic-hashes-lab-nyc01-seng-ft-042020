@@ -5,7 +5,7 @@ end
 
 def my_hash
   # return a valid hash with any key/value pair of your choice
-  Hash.new {
+  grocery_list {
     bananas: 7
     apples: 7
     grapes: "1 bag"
